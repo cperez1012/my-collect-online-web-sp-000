@@ -1,7 +1,6 @@
 empty_array = []
-counter = 0
-  def my_collect(empty_array) do |x|
-    counter += 1
+
+  def my_collect(empty_array)
   end
 
 def my_collect(languages)
