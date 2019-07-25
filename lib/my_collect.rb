@@ -7,6 +7,6 @@ languages = ["ruby", "javascript", "python", "objective-c"]
 def my_collect(languages)
   end
 
-students = []
+students = ["Tim Jones", "Tom Smith", "Sophie Johnson", "Antoin Miller"]
 def my_collect(students)
   end
