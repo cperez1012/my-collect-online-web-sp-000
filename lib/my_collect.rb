@@ -5,6 +5,7 @@ empty_array = []
 
 languages = ["ruby", "javascript", "python", "objective-c"]
 def my_collect(languages)
+  languages.upcase
   end
 
 students = ["Tim Jones", "Tom Smith", "Sophie Johnson", "Antoin Miller"]
